@@ -191,4 +191,4 @@ MIT — use it, fork it, ship something smarter.
 
 ---
 
-Built by **Carl Owen E. Belen** &middot; AI Tools Specialist &middot; College Instructor (IT) &middot; [Portfolio](https://github.com/YOUR-USERNAME)
+Built by **Carl Owen E. Belen** &middot; AI Tools Specialist &middot; College Instructor (IT) &middot; [Portfolio](https://github.com/carlowenbelen)
