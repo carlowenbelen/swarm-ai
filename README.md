@@ -40,7 +40,7 @@ Edit `personas.json` to change them, add more, or build a domain-specific swarm.
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/swarm-ai.git
+git clone https://github.com/carlowenbelen/swarm-ai.git
 cd swarm-ai
 pip install -r requirements.txt
 
